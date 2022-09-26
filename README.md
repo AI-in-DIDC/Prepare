@@ -6,17 +6,56 @@
 
 ## 깃허브 사용법
 [Pull Request](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
-> Pull Request(PR)로 작성한 코드를 올린다. 그러면 각자 코드를 보고 리뷰를 남기거나 그냥 그 코드 가져와서 학습해보면된다.
+```
+Pull Request(PR)로 작성한 코드를 올린다. 그러면 각자 코드를 보고 리뷰를 남기거나 그냥 그 코드 가져와서 학습해보면된다.
+```
+## 자료 및 코드
 
-## 보면 좋은 자료 및 코드
+### 자료
+* [pytorch tutorial](https://tutorials.pytorch.kr/beginner/basics/intro.html)
+```
+pytorch는 딥러닝 프레임워크이다. 딥러닝 할때 필요한 optimizer, model, train 등 손쉽게 가져오고 만들 수 있다. 
+전부 읽기보다는 [파이토치 기본 익히기](https://tutorials.pytorch.kr/beginner/basics/intro.html)에서 
+[7.모델 저장하고 불러오기](https://tutorials.pytorch.kr/beginner/basics/saveloadrun_tutorial.html)
+까지 보면 된다.
+거의 전부 다 사용하기에 꼭 알아야한다.
+```
+* [다양한 learning rate scheduler](https://dacon.io/competitions/official/235697/codeshare/2373?page=1&dtype=recent)
+```
+자주 쓰이는 scheduler를 정리해놓았다. matplotlib으로 그래프로 잘 설명되어있다. 
+댓글에서 글쓴이가 사용하는 schduler와 왜 쓰는지도 보면 좋다.
+```
 
 ### 코드
 
 * [간단한 이미지 학습](https://dacon.io/competitions/official/235870/codeshare/4171?page=3&dtype=recent)
-> colab환경이자 깔끔하게 필요한 코드로만 학습을 진행한다.
-
+```
+colab환경이자 깔끔하게 필요한 코드로만 학습을 진행한다.(vision 한정)
+```
 * [EDA 관련 자료](https://dacon.io/competitions/official/235870/codeshare/4213?page=1&dtype=recent)
-> 주어진 데이터를 활용해 분석을 많이함. Vision데이터에서 뭐가 부족하고 있는지 분석. 이미지에 box를 쳐서 어느 부분이 문제가 있는지 보여주고 어떤 작물에 병이 많은지 없는지를 잘 분석했다.
- 
+```
+주어진 데이터를 활용해 분석을 많이함. Vision데이터에서 뭐가 부족하고 있는지 분석. 
+이미지에 box를 쳐서 어느 부분이 문제가 있는지 보여주고 어떤 작물에 병이 많은지 없는지를 잘 분석했다.
+```
 * [NLP](https://dacon.io/competitions/official/235717/codeshare/2674?page=1&dtype=recent)
-> 로그 기록을 보고 보안 위험도 분석하는 대회. 주목할 부분으로 중복된 값 제거, 필요없는 텍스트 제거, oversampling 등이 있다. 특히 oversampling은 vision에도 쓰인다. 필요없는 텍스트 제거, 중복된 값 제거는 NLP에서 많이 쓰이는 기법이다. 유심하게 보면 좋다.
+```
+로그 기록을 보고 보안 위험도 분석하는 대회. 
+주목할 부분으로 중복된 값 제거, 필요없는 텍스트 제거, oversampling 등이 있다.
+특히 oversampling은 vision에도 쓰인다. 필요없는 텍스트 제거, 중복된 값 제거는 NLP에서 많이 쓰이는 기법이다. 
+유심하게 보면 좋다.
+```
+
+* [SAM optimizaer](https://dacon.io/competitions/official/235697/codeshare/2370?page=2&dtype=recent)
+```
+현재 글 필자가 많이 쓰는 optimizer인데 설명도 좋고 optimizer의 문제도 잘 지적되어 있다.
+```
+
+* [augmentation](https://dacon.io/competitions/official/235697/codeshare/2360?page=3&dtype=recent)
+```
+우리는 albumentation을 사용 안하지만 우리가 쓰게될 기법들이 있다. 
+간단히 보면서 '이런 기법이고 이미지가 이렇게 되는구나'보면 된다.(vision 한정)
+```
+* [TTA](https://dacon.io/competitions/official/235697/codeshare/2361?page=3&dtype=recent)
+```
+inference때 사용 할 확률이 높다. TTA에 관한 설명이 자세히 설명되어 있어서 좋다.(vision 한정)
+```
