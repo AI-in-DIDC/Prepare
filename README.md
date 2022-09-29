@@ -31,6 +31,11 @@ pytorch는 딥러닝 프레임워크이다. 딥러닝 할때 필요한 optimizer
 사이킷런이란 무엇이고 다양한 용도로 사용이 가능한데 어디까지 가능할까? 천천히 읽으면 좋다.
 ```
 
+* [Pycaret](https://minimin2.tistory.com/137)
+```
+사이킷런도 굉장히 좋은 패키지다. 하지만 Pycaret도 사이킷런과 비슷하게 다양한 모델과 파라미터를 수정할 수 있다. 꼭 확인하자.
+```
+
 ### 코드
 
 * [간단한 이미지 학습](https://dacon.io/competitions/official/235870/codeshare/4171?page=3&dtype=recent)
