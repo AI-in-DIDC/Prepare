@@ -3,6 +3,8 @@
 
 [issue 예시](https://github.com/AI-in-DIDC/Prepare/issues/1)
 
+[colab 베이스라인 주차수요 예측](https://colab.research.google.com/github/AI-in-DIDC/Prepare/blob/main/%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%9D%B8_%EC%BD%94%EB%93%9C_%EB%B6%84%EC%84%9D(%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8)2.ipynb)
+
 [colab 베이스라인 주차수요 예측](https://colab.research.google.com/github/cjfghk5697/anomaly-detection-competition/blob/main/%5B%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%9D%B8_%EC%BD%94%EB%93%9C%5D_%EB%A6%AC%EB%8D%94%EB%B3%B4%EB%93%9C%EC%97%90_%EC%A0%9C%EC%B6%9C%ED%95%98%EB%8A%94_%EB%B0%A9%EB%B2%95_(%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8).ipynb)
 
 ## 깃허브 사용법
