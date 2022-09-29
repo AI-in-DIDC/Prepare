@@ -37,6 +37,15 @@ pytorch는 딥러닝 프레임워크이다. 딥러닝 할때 필요한 optimizer
 사이킷런도 굉장히 좋은 패키지다. 하지만 Pycaret도 사이킷런과 비슷하게 다양한 모델과 파라미터를 수정할 수 있다. 꼭 확인하자.
 ```
 
+* [matplotlib](https://wikidocs.net/124976)
+```
+우리가 가지고 있는 데이터 분포도를 잘봐야한다. 예시로 아래 이미지를 봐보자. 
+값이 굉장히 극단적으로 되어있다. 이와 같은 문제를 인식하기 위해서는 matplotlib과 같은 라이브러리를 다룰줄 알면 좋다. 
+간단한 사용법만 숙지하고 필요할때마다 구글링하자.
+```
+![image](https://user-images.githubusercontent.com/80466735/193048861-3ab9008d-35b5-482d-9480-c7bc77ec6cb3.png)
+
+
 ### 코드
 
 * [간단한 이미지 학습](https://dacon.io/competitions/official/235870/codeshare/4171?page=3&dtype=recent)
@@ -91,7 +100,8 @@ inference때 사용 할 확률이 높다. TTA에 관한 설명이 자세히 설�
 
 * [문서요약 AI](https://dacon.io/competitions/official/235829/codeshare/4047?page=1&dtype=recent)
 ```
-kobert라는 모델을 쓴다. 원래 Bert 모델 한국어 버전으로 konlpy 같은 라이브러리 숙지가 매우 중요하다. 특정 모델과 데이터 전처리를 통해 좋은 예측 결과를 가져올 수 있다.
+kobert라는 모델을 쓴다. 원래 Bert 모델 한국어 버전으로 konlpy 같은 라이브러리 숙지가 매우 중요하다. 
+특정 모델과 데이터 전처리를 통해 좋은 예측 결과를 가져올 수 있다.
 ```
 
 * [태양광 발전량 예측 AI](https://dacon.io/competitions/official/235680/codeshare/2033?page=1&dtype=recent)
