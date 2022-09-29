@@ -59,3 +59,30 @@ colab환경이자 깔끔하게 필요한 코드로만 학습을 진행한다.(vi
 ```
 inference때 사용 할 확률이 높다. TTA에 관한 설명이 자세히 설명되어 있어서 좋다.(vision 한정)
 ```
+
+* [인원 예측 AI](https://dacon.io/competitions/official/235743/codeshare/2983?page=1&dtype=recent)
+
+```
+인원 예측하는 대회이다. 데이터 전처리와 모델을 돌리는 코드까지 자세히 나와있어서 배우기 좋다.
+```
+
+* [임베딩](https://dacon.io/competitions/official/235743/codeshare/2817?page=2&dtype=recent)
+
+```
+데이터셋을 활용하여 새로운 모델 입력값을 만든다. 데이터 전처리로 좋은 코드이다.
+```
+
+* [주차수요 예측 AI](https://dacon.io/competitions/official/235745/codeshare/3015?page=1&dtype=recent)
+```
+위 인원 예측 AI와 비슷한 코드다.
+```
+
+* [문서요약 AI](https://dacon.io/competitions/official/235829/codeshare/4047?page=1&dtype=recent)
+```
+kobert라는 모델을 쓴다. 원래 Bert 모델 한국어 버전으로 konlpy 같은 라이브러리 숙지가 매우 중요하다. 특정 모델과 데이터 전처리를 통해 좋은 예측 결과를 가져올 수 있다.
+```
+
+* [태양광 발전량 예측 AI](https://dacon.io/competitions/official/235680/codeshare/2033?page=1&dtype=recent)
+```
+위에 인원 예측하는 코드와 비슷하지만 좀더 정돈되어있고 기본적인 코드라 우선 이 코드를 참고해서 감을 잡으면 좋다.
+```
