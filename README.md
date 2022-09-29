@@ -26,6 +26,11 @@ pytorch는 딥러닝 프레임워크이다. 딥러닝 할때 필요한 optimizer
 댓글에서 글쓴이가 사용하는 schduler와 왜 쓰는지도 보면 좋다.
 ```
 
+* [사이킷런 의미와 활용도](https://engineer-mole.tistory.com/16)
+```
+사이킷런이란 무엇이고 다양한 용도로 사용이 가능한데 어디까지 가능할까? 천천히 읽으면 좋다.
+```
+
 ### 코드
 
 * [간단한 이미지 학습](https://dacon.io/competitions/official/235870/codeshare/4171?page=3&dtype=recent)
@@ -71,6 +76,7 @@ inference때 사용 할 확률이 높다. TTA에 관한 설명이 자세히 설�
 ```
 데이터셋을 활용하여 새로운 모델 입력값을 만든다. 데이터 전처리로 좋은 코드이다.
 ```
+
 
 * [주차수요 예측 AI](https://dacon.io/competitions/official/235745/codeshare/3015?page=1&dtype=recent)
 ```
