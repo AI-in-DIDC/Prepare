@@ -13,6 +13,14 @@ Pull Request(PR)로 작성한 코드를 올린다. 그러면 각자 코드를 �
 ## 자료 및 코드
 
 ### 자료
+예선 자료
+* [semantic segmentation 꿀팁 1](https://modernflow.tistory.com/122)
+* [semantic segmentation 꿀팁 2](https://modernflow.tistory.com/123)
+* [semantic segmentation이란?](https://dacon.io/en/forum/405807)
+* [mIoU란](https://gaussian37.github.io/vision-segmentation-miou/)
+* [pytorch semantic segmentation tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
+
+
 * [pytorch tutorial](https://tutorials.pytorch.kr/beginner/basics/intro.html)
 ```
 pytorch는 딥러닝 프레임워크이다. 딥러닝 할때 필요한 optimizer, model, train 등 손쉽게 가져오고 만들 수 있다. 
