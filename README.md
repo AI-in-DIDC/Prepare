@@ -20,7 +20,8 @@ Pull Request(PR)로 작성한 코드를 올린다. 그러면 각자 코드를 �
 * [mIoU란](https://gaussian37.github.io/vision-segmentation-miou/)
 * [pytorch semantic segmentation tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
 * [항공영상 도시건물 변화탐지](https://www.youtube.com/watch?v=KzAcbbqbOsg)
-
+* [다른 대회 mIoU](https://hoya012.github.io/blog/segmentation_tutorial_pytorch/)
+* [Kaggle pytorch baseline](https://www.kaggle.com/code/ligtfeather/semantic-segmentation-is-easy-with-pytorch)
 * [pytorch tutorial](https://tutorials.pytorch.kr/beginner/basics/intro.html)
 ```
 pytorch는 딥러닝 프레임워크이다. 딥러닝 할때 필요한 optimizer, model, train 등 손쉽게 가져오고 만들 수 있다. 
