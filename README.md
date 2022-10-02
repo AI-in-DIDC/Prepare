@@ -19,7 +19,7 @@ Pull Request(PR)로 작성한 코드를 올린다. 그러면 각자 코드를 �
 * [semantic segmentation이란?](https://dacon.io/en/forum/405807)
 * [mIoU란](https://gaussian37.github.io/vision-segmentation-miou/)
 * [pytorch semantic segmentation tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
-
+* [항공영상 도시건물 변화탐지](https://www.youtube.com/watch?v=KzAcbbqbOsg)
 
 * [pytorch tutorial](https://tutorials.pytorch.kr/beginner/basics/intro.html)
 ```
