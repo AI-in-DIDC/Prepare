@@ -23,6 +23,7 @@ Pull Request(PR)로 작성한 코드를 올린다. 그러면 각자 코드를 �
 * [다른 대회 mIoU](https://hoya012.github.io/blog/segmentation_tutorial_pytorch/)
 * [Kaggle pytorch baseline](https://www.kaggle.com/code/ligtfeather/semantic-segmentation-is-easy-with-pytorch)
 * [pytorch tutorial](https://tutorials.pytorch.kr/beginner/basics/intro.html)
+* [객체탐지 pytorch](https://pseudo-lab.github.io/Tutorial-Book/chapters/object-detection/Ch1-Object-Detection.html)
 ```
 pytorch는 딥러닝 프레임워크이다. 딥러닝 할때 필요한 optimizer, model, train 등 손쉽게 가져오고 만들 수 있다. 
 전부 읽기보다는 [파이토치 기본 익히기](https://tutorials.pytorch.kr/beginner/basics/intro.html)에서 
